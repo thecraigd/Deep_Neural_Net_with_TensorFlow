@@ -11,7 +11,7 @@ Machine Learning training project utilising [TensorFlow](https://www.tensorflow.
 
 ## Introduction
 
-The intention of this project was to build a functioning neaural network using [TensorFlow](https://www.tensorflow.org/), experiment with hidden layers and nodes and see the effect of other hyperparameters in the model.
+The intention of this project was to build a functioning neural network using [TensorFlow](https://www.tensorflow.org/), experiment with hidden layers and nodes and see the effect of other hyperparameters in the model.
 
 This was based on examples used in the excellent [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) offered by Google.
 
