@@ -56,4 +56,4 @@ Sourced from [Google](https://download.mlcc.google.com/mledu-datasets/california
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thecraigd/Deep_Neural_Net_with_TensorFlow/master)
 
 ## Contact
-All feedback is warmly received. Craig Dickson can be contacted at [craigdoesdata.de](https://www.craigdoesdata.de/contact.html).
+All feedback is warmly received. Craig Dickson can be contacted at [craigdoesdata.com](https://www.craigdoesdata.com/contact.html).
